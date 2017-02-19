@@ -1,0 +1,15 @@
+{
+  "name": "montrol",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github:montrol/montrol.git"
+  },
+  "author": "Rasmus Porsager <rasmus@porsager.com",
+  "dependencies": {}
+}
